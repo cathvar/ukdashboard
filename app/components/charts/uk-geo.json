@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "England"
+      },
+      "geometry": {
+        // Simplified England geometry
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scotland"
+      },
+      "geometry": {
+        // Simplified Scotland geometry
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wales"
+      },
+      "geometry": {
+        // Simplified Wales geometry
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Northern Ireland"
+      },
+      "geometry": {
+        // Simplified Northern Ireland geometry
+      }
+    }
+  ]
+} 

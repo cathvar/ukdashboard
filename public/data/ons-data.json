@@ -1,0 +1,22 @@
+{
+  "gdp": {
+    "value": "2.98T",
+    "change": "+0.3",
+    "period": "Q4 2023"
+  },
+  "debt": {
+    "value": "2.58T",
+    "change": "+5.2",
+    "period": "Feb 2024"
+  },
+  "inflation": {
+    "value": "4.0",
+    "change": "-0.3",
+    "period": "Feb 2024"
+  },
+  "interest": {
+    "value": "5.25",
+    "change": "0",
+    "period": "Mar 2024"
+  }
+} 
